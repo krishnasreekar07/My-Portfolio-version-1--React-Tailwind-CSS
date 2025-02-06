@@ -26,11 +26,3 @@ This project showcases my **skills, experience, projects, and certifications** i
 - **Lucide React Icons** 🎭 (for icons)  
 - **Netlify** 🚀 (for hosting)  
 
----
-
-## 📥 Installation (Run Locally)  
-
-### **1️⃣ Clone This Repository**  
-```sh
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
